@@ -1,0 +1,18 @@
+[project]
+name = "winrouting"
+version = "0.0.1"
+authors = [
+  { name="Arthur Timmermans", email="arthur.timmermans@philips.com" },
+]
+description = ""
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: None",
+    "Operating System :: Windows",
+]
+
+[project.urls]
+Homepage = "https://github.com/ArthurTimmermans/WinRoute"
+Issues = "https://github.com/ArthurTimmermans/WinRouteissues"
